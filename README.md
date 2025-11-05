@@ -40,8 +40,8 @@ Criar uma aplicação simples que:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-   cd NOME_DO_REPOSITORIO
+   git clone https://github.com/MatheusB0/Initial-Solution-Algorithm-Construction-2nd-Semester-SI
+   cd Initial-Solution-Algorithm-Construction-2nd-Semester-SI
    ```
 
 2. Instale as dependências:
@@ -146,8 +146,8 @@ Build a simple application that:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
-   cd REPOSITORY_NAME
+   git clone https://github.com/MatheusB0/Initial-Solution-Algorithm-Construction-2nd-Semester-SI
+   cd Initial-Solution-Algorithm-Construction-2nd-Semester-SI
    ```
 
 2. Install dependencies:
